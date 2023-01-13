@@ -10,7 +10,7 @@ If you are familiar with PowerShell, skip to [Installation](#installation) secti
 
 ### Installation
 
-To install PoShLog.Sinks.Exceptionless, run following snippet from powershell:
+To install PoShLog.Sinks.Notepad, run following snippet from powershell:
 
 ```ps1
 Install-Module -Name PoShLog.Sinks.Notepad
